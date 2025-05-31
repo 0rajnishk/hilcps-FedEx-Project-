@@ -6,7 +6,7 @@ This project was developed during my **Research & Development Internship at HILC
 The system consists of:  
 - **Flutter App (Mobile) ** – Real-time driver monitoring, vehicle diagnostics, and alerts.  
 - **Admin Dashboard (Web) ** – Fleet tracking, weekly/monthly reports, and AI-driven insights.  
-- **Backend (WebSocket & PostgreSQL) 🖥️** – Data ingestion, real-time storage, and analytics.  
+- **Backend (WebSocket & PostgreSQL) ** – Data ingestion, real-time storage, and analytics.  
 
 ## Tech Stack  
 - **Programming:** Python, Dart, SQL  
@@ -36,7 +36,7 @@ The system consists of:
 - **Weekly & Monthly Reports** on driver performance & vehicle health.  
 - **WebSocket communication** for seamless real-time data updates.  
 
-## ⚡ Challenges Faced & Solutions  
+## Challenges Faced & Solutions  
 | Challenge | Solution |
 |-----------|----------|
 | **Limited car access for ELM327 testing** | Built a **simulator** to test OBD-II data flow. |
