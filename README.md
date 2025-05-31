@@ -1,21 +1,21 @@
 # 🚗 FedEx Fleet Monitoring & Driver Safety System  
 
-## 📌 Overview  
+## Overview  
 This project was developed during my **Research & Development Internship at HILCPS Lab, IIT Madras**, in collaboration with **FedEx**. It focuses on **real-time driver monitoring, vehicle health tracking, and fleet analytics** using **Flutter, Computer Vision, ML, and Embedded Systems**.  
 
 The system consists of:  
-- **Flutter App (Mobile) 📱** – Real-time driver monitoring, vehicle diagnostics, and alerts.  
-- **Admin Dashboard (Web) 🌐** – Fleet tracking, weekly/monthly reports, and AI-driven insights.  
+- **Flutter App (Mobile) ** – Real-time driver monitoring, vehicle diagnostics, and alerts.  
+- **Admin Dashboard (Web) ** – Fleet tracking, weekly/monthly reports, and AI-driven insights.  
 - **Backend (WebSocket & PostgreSQL) 🖥️** – Data ingestion, real-time storage, and analytics.  
 
-## 🚀 Tech Stack  
+## Tech Stack  
 - **Programming:** Python, Dart, SQL  
 - **Machine Learning & Computer Vision:** OpenCV, Dlib, MediaPipe, NumPy  
 - **Deep Learning Models:** CNN, RNN, LSTM  
 - **NLP & AI Techniques:** Gaze Tracking, Facial Landmark Detection, Pose Estimation  
 - **Frameworks & Tools:** Flutter, Flask, PostgreSQL, WebSockets, ELM327 (OBD-II), Docker  
 
-## 🔬 Techniques Used  
+##  Techniques Used  
 ### 🔹 **Driver Monitoring & Safety (Computer Vision & ML)**  
 - **Drowsiness Detection** using:  
   - Eye Aspect Ratio (**EAR**) – Detects eye closure duration.  
@@ -45,11 +45,11 @@ The system consists of:
 | **Real-time alert system without user annoyance** | Used **cool emojis & subtle audio alerts** to improve UX. |
 
 ## 📈 Impact  
-✅ **Enhanced driver safety** with AI-driven alerts.  
-✅ **Improved vehicle performance monitoring** using real-time analytics.  
-✅ **Fleet-wide optimization** for data-driven decision-making.  
+ **Enhanced driver safety** with AI-driven alerts.  
+ **Improved vehicle performance monitoring** using real-time analytics.  
+ **Fleet-wide optimization** for data-driven decision-making.  
 
 ---
 
-💡 **This project represents a fusion of AI, embedded systems, and real-time analytics to improve fleet safety and efficiency.**  
-📬 **For collaboration or inquiries, feel free to connect!**  
+**This project represents a fusion of AI, embedded systems, and real-time analytics to improve fleet safety and efficiency.**  
+**For collaboration or inquiries, feel free to connect!**  
